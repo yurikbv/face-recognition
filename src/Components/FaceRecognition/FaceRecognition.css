@@ -1,0 +1,6 @@
+.FaceRecognition {
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+  max-width: 100%;
+}

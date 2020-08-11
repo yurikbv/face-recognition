@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.particles {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 85%;
+  margin: 15px auto 0;
+}
